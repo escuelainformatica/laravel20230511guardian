@@ -1,0 +1,1 @@
+Ya esta autenticado <b>{{request()->user()->name}} / {{request()->user()->email}}</b>
